@@ -1,0 +1,31 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "ejercicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fermaz2005/ejercicios-ht2-pi-2025.git"
+  },
+  "keywords": [
+    "Repaso",
+    "Final",
+    "Estrategico"
+  ],
+  "author": "Fernando Mazariegos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fermaz2005/ejercicios-ht2-pi-2025/issues"
+  },
+  "homepage": "https://github.com/Fermaz2005/ejercicios-ht2-pi-2025#readme",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30"
+  }
+}
